@@ -1,4 +1,4 @@
-Here you'll find a set of solutions to geodesy problems in various programming languages.
+A set of solutions to geodesy problems in various programming languages.
 
 ## The Direct or Forward Problem
 
