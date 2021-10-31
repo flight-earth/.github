@@ -1,4 +1,4 @@
-Here you'll find a set of repos, each with solutions to the geodesy problems.
+Here you'll find a set of solutions to geodesy problems in various programming languages.
 
 ## The Direct or Forward Problem
 
