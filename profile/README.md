@@ -1,4 +1,5 @@
-A set of solutions to geodesy problems in various programming languages.
+A set of solutions to geodesy problems in various programming languages; in
+Haskell, F#, Unison, Koka, Lean, and Rust.
 
 ## The Direct or Forward Problem
 
