@@ -12,7 +12,7 @@ Given the above inputs, find:
   * {α₂} The azimuth at the arrival point.
 
 
-## The Inverse or Reverse Problem
+## The Inverse or Reverse Problem[^1]
 
   * {x} The departure point.
   * {y} The arrival point.
@@ -22,3 +22,5 @@ Given the above inputs, find:
   * {s} The distance between departure and arrival points.
   * {α₁} The azimuth at the departure point.
   * {α₂} The azimuth at the arrival point.
+
+[^1]: Sometimes called the indirect problem.
